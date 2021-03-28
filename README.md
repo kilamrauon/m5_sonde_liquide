@@ -15,8 +15,9 @@ Le minuteur est enclenché avec la touche "A", arrêté avec la touche "B" et fa
 
 
 Reste à faire : 
-une traduction en anglais
+une traduction en anglais.
 peut être rajouter des dessins pour rendre plus attractif.
+améliorer la précision de la minuterie.
 
 Possibilités d'évoution :
 rajouter un relais pour arrêter éventuellemnt l'appareil
