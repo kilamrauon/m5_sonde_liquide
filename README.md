@@ -13,6 +13,8 @@ Voir cette adresse pour l'utilisation mais il faut d'abord ouvrir le fichier ds1
 
 Utilisation:
 
+la broche DAT de la sonde est branché sur l'entrée 26 du M5stack (pin DAT on pin 26)
+
 selection des températures et durée prédéfinies avec UP et Down.
 Changement de la température manuellement avec "LEFT" et "Right"
 L'alarme sonne quand la température souhaitée est atteinte ou dépassée.
