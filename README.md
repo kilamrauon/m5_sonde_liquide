@@ -2,7 +2,7 @@
 utilisation du M5Stack gray avec gameboy face
 
 Une sonde de température avec des données prédéfinies (thé, café, etc...) et une durée d'infusion quand nécessaire.
-La durée est modifiable.
+La température est modifiable.
 Avec une sonde thermique étanche ds18b20, M5stack et la gameboy FACE.
 
 Utilisation:
