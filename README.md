@@ -4,6 +4,11 @@ utilisation du M5Stack gray avec gameboy face
 Une sonde de température avec des données prédéfinies (thé, café, etc...) et une durée d'infusion quand nécessaire.
 La température est modifiable.
 Avec une sonde thermique étanche ds18b20, M5stack et la gameboy FACE.
+Créé avec l'uiflow de M5stack https://flow.m5stack.com/
+
+nécessite la bibliothèqe https://github.com/stonatm/UiFlow-custom-blocks/tree/master/ds18b20
+Voir cette adresse pour l'utilisation mais il faut d'abord ouvrir le fichier ds18b20.m5b avec l'uiflow pouis le fichier m5f sinon il y a une erreur.
+
 
 Utilisation:
 
