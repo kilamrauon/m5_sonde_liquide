@@ -5,7 +5,7 @@ Une sonde de température avec des données prédéfinies (thé, café, etc...) 
 
 La température est modifiable.
 
-Avec une sonde thermique étanche ds18b20, M5stack et la gameboy FACE.
+Matériel : une sonde thermique étanche ds18b20, un M5stack et la gameboy FACE.
 
 Créé avec l'uiflow de M5stack https://flow.m5stack.com/
 
