@@ -11,7 +11,7 @@ Matériel : une sonde thermique étanche ds18b20, un M5stack et la gameboy FACE.
 
 Créé avec l'uiflow de M5stack https://flow.m5stack.com/
 
-nécessite la bibliothèqe https://github.com/stonatm/UiFlow-custom-blocks/tree/master/ds18b20
+nécessite la bibliothèque https://github.com/stonatm/UiFlow-custom-blocks/tree/master/ds18b20
 
 Voir cette adresse pour l'utilisation mais il faut d'abord ouvrir le fichier ds18b20.m5b avec l'uiflow puis le fichier m5f sinon il y a une erreur.
 
